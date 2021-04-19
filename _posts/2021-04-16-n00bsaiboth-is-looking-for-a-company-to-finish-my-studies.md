@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nn00bsaiboth is looking for a company to finish my studies"
+title: "n00bsaiboth is looking for a company to finish my studies"
 date: 2021-04-16
 ---
 
