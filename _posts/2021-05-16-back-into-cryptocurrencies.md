@@ -12,8 +12,8 @@ Now my curiosity has woken up again, when I heard the news about Dogecoin. I was
 
 I have few invite links below, so please, feel free to use them.
 
-- [coinmotion](https://app.coinmotion.com/fi/register/signup?referral_code=fpi9wgq3b863saqyg3k2&utm_campaign=referral_fi&utm_source=email&utm_medium=share_button&ref_id=fpi9wgq3b863saqyg3k2)
-- [binance](https://www.binance.com/en/register?ref=EDOLWPVS)
+- [coinmotion](https://app.coinmotion.com/fi/register/signup?referral_code=fpi9wgq3b863saqyg3k2&utm_campaign=referral_fi&utm_source=email&utm_medium=share_button&ref_id=fpi9wgq3b863saqyg3k2).
+- [binance](https://www.binance.com/en/register?ref=EDOLWPVS).
 
 
 #cryptocurrencies #bitcoin #litecoin #dogecoin #coinmotion #binance
