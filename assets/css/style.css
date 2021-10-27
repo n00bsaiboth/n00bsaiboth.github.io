@@ -1,3 +1,11 @@
+/* prevent jumpy pages
+ *
+ */ 
+
+body {
+	overflow-y: scroll;
+}
+
 /* set up fonts
  *
  */
