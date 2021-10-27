@@ -6,7 +6,7 @@ date: 2021-10-27
 
 Hi, it has been a while. Some of you might have been already notice, that we have upgraded some of our sites, besides this of course. 
 
-For this site, we added a sticky footer with contact and social (media) info. Feel free to check me out.
+For this site, we added a sticky footer with contact and social (media) info. Feel free to check them out. Also added the famous jumbotron and favicons, then tried to do some search engine optimizing. We'll see how it all goes. 
 
 First of all, we gave a small face lift to our beloved ID. You can see the changes from [here](https://infected-design.net). Nothing much. We made a small update to some of the packages, like bootstrap and font awesome. We didn't upgrade them to latest version, because we were afraid that we might break something. Also we upgraded the fonts for the theme, so it looks much nicer.
 
