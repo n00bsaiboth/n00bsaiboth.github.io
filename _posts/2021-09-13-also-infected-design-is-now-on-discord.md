@@ -8,4 +8,4 @@ If you have read the last of our post, you already know our programming channel.
 
 Thanks to our Raspberry Pi, we also have a bot running, although it doesn't do much. 
 
-Now also on Discord, at [Discord - infected-design](https://discord.gg/fB6Av8g6).
+Now also on Discord, at [Discord - infected-design](https://discord.gg/HcXsH4J).
