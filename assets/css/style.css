@@ -21,6 +21,10 @@ p, a {
     font-family: "Open Sans", Helvetica, sans-serif;
 }
 
+#site-header {
+	color: #000;	
+}
+
 /* sticky footer
  *
  */
