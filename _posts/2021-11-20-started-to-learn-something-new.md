@@ -9,5 +9,4 @@ Well, I lied a bit, because I had one course on the Turku University about MERN-
 I made couple of sites with next.js and MERN. You can check them out below.
 
 - [Simple blogging platform, builded with next.js](https://nextjs-blog-seven-rho-68.vercel.app/)
-- [Simple blogging platform, builded with MERN-stack](http://ec2-18-118-19-142.us-east-2.compute.amazonaws.com/)
 
