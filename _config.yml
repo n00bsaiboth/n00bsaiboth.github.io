@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jussi Jokinen
+title: Jussi Jokinen (aka. n00bsaiboth)
 email: jussi.k.jokinen[at]gmail.com
 # tel: +358 41 701 6628
 description: >- # this means to ignore newlines until "baseurl:"
@@ -27,7 +27,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://n00bsaiboth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: n00bsaiboth
 instagram_username: n00bsaiboth
-# linkedin_username: jussi-jokinen-86722634
+lastfm_username: n00bsaiboth
+linkedin_username: jussi-k-jokinen
 github_username:  n00bsaiboth
 twitter_username: n00bsaiboth
 

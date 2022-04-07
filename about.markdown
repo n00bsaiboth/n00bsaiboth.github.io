@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+Proud light entrepreneuer of [infected-design](https://infected-design.net). At the moment, I'm a full time developer at [Citrus](https://citrus.fi/me).
+
 My interests range from Open Source to Information Security. I am also interested in web development, Cryptocurrencies, and zeitgeist movement. 
 
 Every now and then I'm a light entrepreneuer, mostly helping my neighbors around or then again, because of my background, also do some web-projects, mostly on LAMP- and MERN-stack. 

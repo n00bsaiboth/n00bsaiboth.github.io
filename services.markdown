@@ -6,8 +6,7 @@ permalink: /services/
 
 ## So, what can I do to serve your company?
 
-* Installation and updating of operating systems and software, mostly in Windows- and Linux-environments.
+* Installation and updating of operating systems and software, mostly in Windows- and Linux-environments (debian/arch linux).
 * Web-programming, either LAMP or MERN-stack, but I prefer LAMP.
+* Information security
 * Consulting
-* Search engine optimization
-* Work as an office assistant 
