@@ -10,3 +10,5 @@ permalink: /services/
 * Web-programming, either LAMP or MERN-stack, but I prefer LAMP.
 * Information security
 * Consulting
+
+Our salary wish would be around 15-30 euros/hour.
