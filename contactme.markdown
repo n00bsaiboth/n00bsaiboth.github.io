@@ -8,7 +8,7 @@ permalink: /contact/
 
 ![Jussi Jokinen](/assets/images/mugshot.jpeg "Jussi Jokinen")
 
-[Keskusta, III kaupunginosa - Turku](https://www.google.fi/maps/place/Kaskenkatu,+20700+Turku/@60.445078,22.2727605,18.17z/data=!4m5!3m4!1s0x468c76e32394950f:0x22afe51ae3834a6e!8m2!3d60.4450416!4d22.2747052?shorturl=1)
+[Keskusta, VI kaupunginosa - Turku](https://goo.gl/maps/vZJdDcRmEmEXZ32f6)
 
 jussi.k.jokinen [at] gmail.com
 
