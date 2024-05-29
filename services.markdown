@@ -11,4 +11,4 @@ permalink: /services/
 * Information security
 * Consulting
 
-Our salary wish would be around 15-30 euros/hour.
+Our salary wish would be around 30-50 euros/hour.
