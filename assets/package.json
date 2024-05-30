@@ -1,0 +1,23 @@
+{
+	"name": "openinnovations-ui",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+			"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Jussi Jokinen",
+	"license": "MIT",
+	"devDependencies": {
+			"gulp": "^5.0.0",
+			"gulp-clean-css": "^4.3.0",
+			"gulp-concat": "^2.6.1",
+			"gulp-sass": "^5.1.0",
+			"gulp-uglify": "^3.0.2",
+			"sass": "^1.75.0"
+	},
+	"dependencies": {
+			"gulp-iconfont": "^11.0.1",
+			"gulp-iconfont-css": "^3.0.0"
+	}
+}
