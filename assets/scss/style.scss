@@ -5,3 +5,11 @@ body {
 .p-name {
 	display: none;
 }
+
+.post-content {
+	img {
+		width: 400px;
+		height: auto;
+		border-radius: 50%;
+	}
+}
