@@ -4,7 +4,7 @@ title: "Pi network is a new competitive and promising cryptocurrency on the mark
 date: 2024-05-24
 ---
 
-Pi network,
+## Pi network,
 
 It has been awhile, since I’ve been working with cryptocurrencies, but I fell in love with it immediately, because of the name and ease of use (mining).
 

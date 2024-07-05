@@ -15,9 +15,17 @@ I haven't yet googled these out, so they might not be as stable or reliable as P
 
 For starters I have to say that I'm not a huge fan of Telegram, but these miners work on Telegram. So it's necessary to use it. Here or some invitations.
 
+- [Cybase](https://t.me/CyberbaseFarm_bot?start=6292274138)
 - [Hot Wallet](https://t.me/herewalletbot/app?startapp=16374163)
 - [Hamster Kombat](https://t.me/hamster_kombaT_bot/start?startapp=kentId6292274138)
+- [TapSwap](https://t.me/tapswap_mirror_1_bot?start=r_6292274138)
+- [W-coin](https://t.me/wcoin_tapbot?start=NjI5MjI3NDEzOA==)
+- [Battle bulls](https://t.me/battle_games_com_bot/start?startapp=frndId6292274138)
 
 What I've noticed so far and like I told, that I'm not a huge fan of Telegram, but you can run these simultaneously, which is pretty cool. Hot wallet can run on it's own, but on Hamster Kombat, you need to tap the screen to gain and collect tokens, but I'm sure you can do that few times a day.  
 
 Like I told I haven't investigated the above tokens so far, but please let me know what you think about those.
+
+Bonus:
+
+- [Ton lottery](https://TONfree.win/?r=294577)
