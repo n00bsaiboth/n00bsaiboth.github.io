@@ -26,6 +26,8 @@ What I've noticed so far and like I told, that I'm not a huge fan of Telegram, b
 
 Like I told I haven't investigated the above tokens so far, but please let me know what you think about those.
 
+I think it was W-coin, where you can choose your mining pool and or blockchain, so I would recommend for you to choose TON. 
+
 Bonus:
 
 - [Ton lottery](https://TONfree.win/?r=294577)
