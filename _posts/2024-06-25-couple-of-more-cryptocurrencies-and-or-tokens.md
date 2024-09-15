@@ -13,24 +13,13 @@ As Pi Network seems to be quite stable and reliable token at the moment, but wai
 
 I haven't yet googled these out, so they might not be as stable or reliable as Pi Network and might even be a scam, but you never know.
 
-For starters I have to say that I'm not a huge fan of Telegram, but these miners work on Telegram. So it's necessary to use it. Here or some invitations.
+For starters I have to say that I'm not a huge fan of Telegram, but these miners work on Telegram. So it's necessary to use it. Here are some invitations.
 
-- [Cybase](https://t.me/CyberbaseFarm_bot?start=6292274138)
 - [Hot Wallet](https://t.me/herewalletbot/app?startapp=16374163)
 - [Hamster Kombat](https://t.me/hamster_kombaT_bot/start?startapp=kentId6292274138)
 - [TapSwap](https://t.me/tapswap_mirror_1_bot?start=r_6292274138)
-- [W-coin](https://t.me/wcoin_tapbot?start=NjI5MjI3NDEzOA==)
-- [Battle bulls](https://t.me/battle_games_com_bot/start?startapp=frndId6292274138)
 - [MemeFi Coin](https://t.me/memefi_coin_bot?start=r_4778a7995f)
 
-What I've noticed so far and like I told, that I'm not a huge fan of Telegram, but you can run these simultaneously, which is pretty cool. Hot wallet and Cybase can run on it's own, but on Hamster Kombat, you need to tap the screen to gain and collect tokens, but I'm sure you can do that few times a day.  
+What I've noticed so far, that Telegram tokens are more or less like a wild west. New tokens are popping up like mushrooms on the autumn rain. So it gets easily confusing and the chance of getting scammed rises. So my advice to you is that check that the token has a community behind it, check the montly users, the more users, the better. Finally check that the token is verified by Telegram (blue badge after the bot or group name). Remember after all this, there is a still chance that you get scammed one way or the other.
 
 Like I told I haven't investigated the above tokens so far, but please let me know what you think about those.
-
-I think it was W-coin, where you can choose your mining pool and or blockchain, so I would recommend for you to choose TON. 
-
-Bonus:
-
-- [Ton lottery](https://TONfree.win/?r=294577)*
-
-Forget about the bonus, it's probably more or less of a scam. Same goes for [DIT (digital insurance token)](https://dit.top). That is probably a scam too, because the site is quite often down and you can't find the app from the Google Play Store. 
