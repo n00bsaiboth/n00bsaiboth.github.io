@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why two factor authentication matters"
-date: 2024-07-12
+date: 2024-09-14
 ---
 
 I think I'm not the only one, but I hear quite a lot from people that there is no need for 2FA that it's useless and it adds an extra step, when logging into service(s). Until something strange or unexpected happens. Then they usually change their minds.
