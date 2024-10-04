@@ -17,7 +17,7 @@ So what are airdrops? This usually happens, when the token is about to go to the
 
 Beware if the cryptocurrency bot is requiring all sort of things, like invite 100 friends, follow us on Instagram, Facebook and X. It's usually not the worth of effort. So don't go that way.
 
-Many coins and or tokens are about to be launched at the end of the year, so it's not too late to start mining. Keep in mind that there is no easy or free money. For example, I've been mining on Hamster Kombat on a daily basis like 6 months, and I got like 20 euros. So don't expect to get rich fast. But, after you get the tokens and or coins, you can trade them to another one, for example bitcoin or ethereum. I use [Binance](https://www.binance.com/en) for this.
+Many coins and or tokens are about to be launched at the end of the year, so it's not too late to start mining. Keep in mind that there is no easy or free money. For example, I've been mining on Hamster Kombat on a daily basis like 6 months, and I got like 2.5 USD. So don't expect to get rich fast. But, after you get the tokens and or coins, you can trade them to another one, for example bitcoin or ethereum. I use [Binance](https://www.binance.com/en) for this.
 
 But yes, because it's not too late to start mining and getting the benefits of the airdops. Here is some invitation links to get you started. 
 
