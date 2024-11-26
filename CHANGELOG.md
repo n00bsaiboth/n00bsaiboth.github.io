@@ -4,4 +4,4 @@
 
 ### Todo
 
- * Refactor: The code should be refactored, consider to do something for the frontend.
+ * Refactor: The code should be refactored, consider to do something for the frontend also consider using pagination for this site and also for the next js blog.
