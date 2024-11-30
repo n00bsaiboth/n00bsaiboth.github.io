@@ -19,7 +19,10 @@ _site/
 # Ignore mac files
 .DS_STORE
 
-#misc
+# Misc
 /tmp/*
 /sql/*
 /doc/*
+
+# Jekyll Cache
+.jekyll-cache/*
