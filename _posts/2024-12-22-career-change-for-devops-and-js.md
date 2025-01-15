@@ -4,7 +4,7 @@ title: "Career change for devops and more to towards Javascript"
 date: 2024-12-22
 ---
 
-This is me, thinking to myself (out loud).
+This is me, thinking to myself (out loud). To be honest, career change is a bit too strong word to describe it. Although, it's not the first time that I think about Javascript (MERN or MEAN stack). Yet, never thought about moving to DevOps until now. Also it doesn't necessary mean that I leave LAMP stack behind, maybe I'll just try to expand my knowledge and opportunities.
 
 This year gave me a lot of thought, that who I want to be, when I grow up. I've been always playful when it comes to Linux, but I've been thinking that I should change the stack, I've been working with. LAMP is great, no questions asked, but we live in the year of 2024, so maybe in the year of 2025, I'll lean more towards MERN stack.
 
